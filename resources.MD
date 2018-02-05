@@ -33,6 +33,7 @@ Note: Some of the content in these resources could be written more compassionate
 ## Creating Your Slides
 
 * [Practical tips for creating great slides](http://weareallaweso.me/for_speakers/practical-tips-for-creating-great-slides.html)
+* [The Art of Slide Design - Melinda Seckington](https://www.youtube.com/watch?v=e5gwEvQah-s)
 
 ## Getting to the Conference
 
@@ -40,6 +41,7 @@ Coming soon!
 
 ## Delivering Your Talk
 
+* [Intro to Public Speaking: The Day of Your Talk - Jessica Rose](https://www.youtube.com/watch?v=m2j6-pjfvuo)
 * [Presence by Amy Cuddy](https://www.worldcat.org/title/presence-bringing-your-boldest-self-to-your-biggest-challenges/oclc/968309222)
 * [The Charisma Myth by Olivia Fox Cabane](https://www.worldcat.org/title/master-the-art-of-personal-magnetism/oclc/879334695)
 * [The Art of Public Speaking by Dale Carnegie](http://www.worldcat.org/title/art-of-public-speaking/oclc/1018957626)
