@@ -55,6 +55,7 @@ Coming soon!
 
 * [How to Prepare and Write a Tech Conference Talk - Lena Reinhard](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
 * [We Are All Awesome](http://weareallaweso.me/)
+* [San Diego Edition of Global CFP Day](https://speakerdeck.com/april/become-a-tech-conference-speaker-the-san-diego-edition-of-global-diversity-cfp-day)
 
 ## Acknowledgements
 
