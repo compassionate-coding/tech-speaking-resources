@@ -1,6 +1,8 @@
 # Resources for Tech Conference Speakers
 
-Note: Some of the content in these posts is lacking in compassion; they are still here because they provide useful information. If you create more compassionate articles or videos covering any of these topics, please send them over via a pull request or DM, and we will happily swap them out!
+**Remember, everything here is full of people's opinions that are based on their experiences. Feel free to take the advice that's helpful and ditch the rest. Your unique authenticity matters more than anything here.** 
+
+Note: Some of the content in these resources could be written more compassionately; they are still here because they provide useful information. If you create more compassionate articles or videos covering any of these topics, please send them over via a pull request or DM, and we will happily swap them out!
 
 ## Choosing Your Idea
 
@@ -21,6 +23,7 @@ Note: Some of the content in these posts is lacking in compassion; they are stil
 
 ## Writing Your Bio
 
+* [Crafting Your Bio - Danielle Barnes](https://www.youtube.com/watch?v=GPPnvXlVj7w)
 * [How to Write a Good Bio - Scott Berkun](http://scottberkun.com/2013/how-to-write-a-good-bio/)
 
 ## Writing Your Talk
